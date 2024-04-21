@@ -1,0 +1,22 @@
+streamlet 
+gradio 
+
+
+How pdf chatbot will look like?
+
+-----------------------------------------
+
+Pdf chatbot is there. 
+Another thing that I want to improve is to incorporate the explainable science answers. 
+
+I can do it later. 
+
+---------------------------------------
+
+First I need to build UI. It can be simple UI. What it will look like? It will look like two boxes obviously. But what else? Time of getting answer.source and line no. where did I get it.
+--------------------------------------------------------------
+Improve backend. 
+How to come up with when there is no answer found in the pdf. What will be the smart thing to do. Ask the user if he want to search on the internet about it resources or any data. 
+---------------------------------------------------------------
+
+First work on UI 
